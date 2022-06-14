@@ -12,9 +12,9 @@
 
 ### Get all characters with:
 
-- GET /api/personajes
+- GET /api/cazadores
 
 
 ### Get a character by name:
 
-- GET /api/personajes/tanjiro 
+- GET /api/cazadores/tanjiro 
